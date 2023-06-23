@@ -1,0 +1,33 @@
+.copyright-footer-meandmeonly© {
+    bottom: 0;
+    position: fixed;
+    width: 100%;
+    background-color: rgb(61, 61, 61);
+    color: white;
+    font-size: 20px;
+}
+
+.note {
+    font-size: 18px;
+    color: rgba(9, 61, 0, 0.863)
+}
+
+.size {
+    font-size: 25;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: black;
+    font-variant: small-caps;
+}
+
+.header {
+    width: 100%;
+    font-size: 25px;
+    margin: 0px;
+    box-shadow: 5px 10px 10px navy;
+    font-variant: small-caps;
+}
+
+canvas {
+    border: 5px solid rgb(0, 195, 255);
+    border-radius: 20%;
+}
